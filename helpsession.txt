@@ -2,3 +2,4 @@ testing out the help session
 
 token: 123456
 Api_key - ABCD
+API - ABCD
